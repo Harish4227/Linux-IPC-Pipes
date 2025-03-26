@@ -1,9 +1,7 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
-
-Hariprasath.R
-
-212223040059
+# NAME: HARISH.D
+# REF NO: 21222422034
 
 
 # Ex03-Linux IPC - Pipes
